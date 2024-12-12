@@ -1,16 +1,21 @@
 # Proyecto-INFO
 SIMPLE DATABASE /USER.-INTERFACE
 
-Estructura del Proyecto: 
-  - server.js
-  - package.json
-- frontend/
-  - src/
-    - App.js
-    - index.js
-  - public/
-    - index.html
-  - package.json
-- database/
-  - schema.sql  <!-- Aquí podrías almacenar tu archivo .sql -->
-- README.md
+# Proyecto de Gestión de Notas de Alumnos
+
+## Descripción
+Este proyecto permite a los alumnos logearse y visualizar estadísticas de sus notas y asistencias.
+
+## Tecnologías Utilizadas
+- Frontend: React.js
+- Backend: Node.js con Express
+- Base de Datos: PostgreSQL
+
+## Configuración del Proyecto
+
+### Backend
+1. Navega al directorio `backend`:
+   ```sh
+   cd backend
+   npm install
+   npm start
